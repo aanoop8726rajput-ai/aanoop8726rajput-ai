@@ -10,7 +10,7 @@
 
 ---
 ### 🚀 About Me
-- 🌱 Learning: Html,Css, JavaScript ,node.js,React.js, Python & Generative AI
+- 🌱 Learning: HTML5,CSS, JavaScript ,Node.js,React.js, Python & Generative AI
 - 📍 Lucknow, India
 
 ### 📫 Connect
