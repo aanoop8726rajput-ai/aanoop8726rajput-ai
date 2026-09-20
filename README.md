@@ -1,4 +1,4 @@
-![Banner](man-using-laptop-night-top-view-web-banner-with-copy-space.jp
+![Banner](man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
 About Me:
 I'm currently Btech CSE final Year student <br>I have Skill in HTML,CSS,JS,React.js,Node.js,MySQL,Python
 
