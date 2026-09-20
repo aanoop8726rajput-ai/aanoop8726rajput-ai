@@ -1,3 +1,4 @@
+![Banner](man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Anoop Singh</h1>
 <h3 align="center">B.Tech CSE '27 | Frontend Developer|Html |CSS|JS|Node.js|React.js|Python|Mysql</h3>
 
