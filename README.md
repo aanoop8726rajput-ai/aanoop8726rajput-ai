@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anoop Singh</h1>
+<h3 align="center">B.Tech CSE '27 | Frontend Developer|Html |CSS|JS|Node.js|React.js|Python|Mysql</h3>
 
-<!--
-**aanoop8726rajput-ai/aanoop8726rajput-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Here are some ideas to get you started:
+---
+### 🚀 About Me
+- 🌱 Learning: Html,Css, JavaScript ,node.js,React.js, Python & Generative AI
+- 📍 Lucknow, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/anoop-singh-257a062a7) | [Instagram](https://www.instagram.com/anoop_singh._19).
